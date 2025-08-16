@@ -1,0 +1,10 @@
+hailo_files/
+runs/
+datasets/
+*.whl
+*.pt
+*.onnx
+*.har
+*.hef
+*.npy
+*.log
