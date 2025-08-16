@@ -8,3 +8,7 @@ datasets/
 *.hef
 *.npy
 *.log
+__pycache__/
+*.pyc
+.venv/
+.env
